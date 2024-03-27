@@ -17,4 +17,4 @@ Spend no more than 2 hours to create a simple application using a React framewor
 - Provide clear instructions for setting up and running the project.
 - Email your submission to us.
 
-Aim to focus on functionality, code clarity, and user experience within the allocated time frame. This test is designed to assess your problem-solving skills and proficiency with React and Next.js.
+Aim to focus on functionality, code clarity, and user experience within the allocated time frame.
