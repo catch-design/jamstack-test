@@ -15,6 +15,8 @@ Spend no more than 2 hours to create a simple application using a React framewor
 
 ### Submission Instructions
 - Provide clear instructions for setting up and running the project.
-- Email your submission to us.
+- Email tech-tests@catchdesign.co.nz with:
+  - A link to your repo OR
+  - A zip file of your project including git config/metadata
 
 Aim to focus on functionality, code clarity, and user experience within the allocated time frame.
