@@ -1,7 +1,7 @@
 # Jamstack Test: GitHub Repository Listing
 
 ## Objective
-Spend no more than 2 hours to create a simple application using a React framework (e.g., Next.js) that fetches and displays GitHub repositories. Implement simple pagination to manage and display the data efficiently.
+Spend no more than 2 hours to create a simple application using a React framework (e.g., Next.js, Gatsby, Remix ...) that fetches and displays GitHub repositories. Implement simple pagination to manage and display the data efficiently.
 
 ### Core Requirements
 - **Fetch Data:** Utilize the GitHub API to fetch and display at least 30 repositories, showing 10 results at a time. Use the following endpoint: `https://api.github.com/orgs/github/repos?sort=name&per_page=10&page=1`.
